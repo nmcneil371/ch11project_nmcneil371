@@ -1,0 +1,28 @@
+/* Name: Naquan McNeil
+   Date: October 28, 2026 */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eef2f6;
+    color: #172b40;
+    margin: 0;
+    padding: 30px;
+    line-height: 1.6;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 25px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+h1 {
+    color: #245780;
+    margin-top: 0;
+}
+
+p {
+    margin-bottom: 15px;
+}
